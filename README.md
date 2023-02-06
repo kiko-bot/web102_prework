@@ -18,11 +18,6 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [X] List anything else that you can get done to improve the app functionality!
-* [X] I inplemented a feature to  use the nav bar at the top of the page to get to the Our Game section quickly?
-* [X] I created a Functional search bar that searches for games in the GAMES_JSON and displays the games in the UI.
-* [X] I changed the background color of the header and font of some specific elements to make it more appealing to the users.
-* [X] I animated the box shadow effect to have a smoother transition and make it feel more natural.
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
